@@ -2,9 +2,9 @@ window.onload=function(){
 	var currentsongindex;
 	var yinyueku=[{name:"贝加尔湖畔",src:"MP3/1.mp3",geshou:"李建",duration:"4:05"},
 	{name:"阴天快乐",src:"MP3/2.mp3",geshou:"陈奕迅",duration:"4:24"},
-	{name:"阴天快乐",src:"MP3/2.mp3",geshou:"陈奕迅",duration:"4:24"},
-	{name:"阴天快乐",src:"MP3/2.mp3",geshou:"陈奕迅",duration:"4:24"},
-	{name:"阴天快乐",src:"MP3/2.mp3",geshou:"陈奕迅",duration:"4:24"}]
+	{name:"平凡之路",src:"MP3/平凡之路.mp3",geshou:"朴树",duration:"5:01"},
+	{name:"存在",src:"MP3/存在.mp3",geshou:"汪峰",duration:"4:44"},
+	{name:"蓝色土耳其",src:"MP3/蓝色土耳其.mp3",geshou:"周传雄",duration:"4:41"}]
 	var LIEBIAO=3,SHUNXU=2,DANQU=1,SUIJI=4;
 	var currentbofangmoshi=LIEBIAO;
 	//播放暂停
